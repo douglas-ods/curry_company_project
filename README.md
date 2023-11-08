@@ -92,7 +92,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O painel pode ser acessado através desse link: [https://project-curry-company.streamlit.app/](https://project-curry-company.streamlit.app/)
+O painel pode ser acessado através desse link: [https://curry-company-project-ods.streamlit.app/](https://curry-company-project-ods.streamlit.app/)
 
 # 6. Conclusão
 
